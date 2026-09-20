@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on building myself<br>👯 I’m looking to collaborate on open source project<br>🤝 Excited for help you in Hackthon<br>🌱 currently  busy on learning<br>💬 Ask me about web dev<br>⚡Learning new thing is crazy
+
 
 
 ## 🌐 Socials:
