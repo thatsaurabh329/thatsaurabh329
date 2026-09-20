@@ -1,5 +1,5 @@
-
-
+# 💫 About Me:
+🔭 I’m currently working on building myself<br>👯 I’m looking to collaborate on open source project<br>🤝 Excited for help you in Hackthon<br>🌱 currently  busy on learning<br>💬 Ask me about web dev<br>⚡Learning new thing is crazy
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shoshinn09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-mishra-5592ba3a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thatsaurabh329@gmail.com) 
